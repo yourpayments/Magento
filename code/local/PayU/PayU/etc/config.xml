@@ -67,7 +67,7 @@
                     <debug_mode>1</debug_mode>
                     <currency></currency>
                     <vat>0</vat>
-                    <LU_url>https://secure.payu.ua/order/lu.php</LU_url>
+                    <LU_url>https://secure.payu.ru/order/lu.php</LU_url>
                     <payment_action>generateForm</payment_action>
                     <allowspecific>0</allowspecific>
                 </PayU>

@@ -1,11 +1,11 @@
-(For PayU Ukraine and Russian ONLY)
------
+# «Твои платежи», модуль для Magento 1.7
 
-Модуль для Magento 1.7 
-=====
+![](https://repository-images.githubusercontent.com/638835276/ff494b04-d65b-4843-8759-e85c689a7e80)
 
-Установка
-----
+[НКО «Твои Платежи»](https://YPMN.ru/ "Платёжная система для сайтов, платформ и приложений") - платёжная система для сайтов, платформ, игр и приложений.
+
+## Установка
+
 Содержимое скопировать в папку `{корень сайта}/app/`
 
 >1. Зайти в админку
@@ -20,8 +20,8 @@
 
 ![Скриншот][1]
 
-Ccылка для IPN : `http://yoursite/PayU/responce`
+Ссылка для IPN : `http://yoursite/PayU/responce`
 -----
 
 
-[1]: https://raw.github.com/PayUUA/Magento/master/magento.png
+[1]: https://raw.github.com/yourpayments/Magento/master/magento.png

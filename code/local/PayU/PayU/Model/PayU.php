@@ -15,8 +15,8 @@ class PayU_PayU_Model_PayU extends Mage_Payment_Model_Method_Abstract
     }
 
     public function getPayUUrl() {
-       # $url = 'https://secure.payu.ru/order/lu.php';
-        $url = ( $this->getConfigData('LU_url') != "" ) ? $this->getConfigData('LU_url') : 'https://secure.payu.ru/order/lu.php';
+       # $url = 'https://secure.ypmn.ru/order/lu.php';
+        $url = ( $this->getConfigData('LU_url') != "" ) ? $this->getConfigData('LU_url') : 'https://secure.ypmn.ru/order/lu.php';
 
         return $url;
     }

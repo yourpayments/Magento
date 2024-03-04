@@ -79,7 +79,7 @@
                             <LU_url translate="label">
                                 <label>LU Ссылка</label>
                                 <frontend_type>text</frontend_type>
-                                <comment>Ссылка LiveUpdate (по умолчанию : https://secure.payu.ru/order/lu.php)</comment>
+                                <comment>Ссылка LiveUpdate (по умолчанию : https://secure.ypmn.ru/order/lu.php)</comment>
                                 <sort_order>7</sort_order>
                                 <show_in_default>1</show_in_default>
                                 <show_in_website>1</show_in_website>
